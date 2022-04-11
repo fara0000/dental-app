@@ -10,8 +10,16 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@native-base/react-native-template-typescript": "^1.0.1",
+    "@react-navigation/native": "^6.0.3",
+    "@react-navigation/native-stack": "^6.5.0",
+    "@react-navigation/stack": "^6.1.1",
+    "@types/styled-components": "^5.1.24",
+    "@types/styled-components-react-native": "^5.1.3",
     "react": "17.0.2",
-    "react-native": "0.67.3"
+    "react-native": "0.67.3",
+    "react-native-elements": "^3.4.2",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
